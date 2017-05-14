@@ -1,0 +1,10 @@
+﻿Build started 14/05/2017 7:02:21 PM.
+     1>Project "H:\Backup\Uni\- Y3\GameProgramming\Lab1 Dice game\Lab1 Dice game\Lab1 Dice game.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1 Dice game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Lab1 Dice game.vcxproj -> H:\Backup\Uni\- Y3\GameProgramming\Lab1 Dice game\Debug\Dice game.exe
+     1>Done Building Project "H:\Backup\Uni\- Y3\GameProgramming\Lab1 Dice game\Lab1 Dice game\Lab1 Dice game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.29
